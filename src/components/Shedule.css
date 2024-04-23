@@ -1,0 +1,20 @@
+#shedule{
+    width: 300px;
+    display: flex;
+    height: 30px;
+    margin-top: 3px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    gap: 0.5rem;
+    margin-top: 8px;
+}
+
+.btns{
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-left: -1px;
+    font-size: 20px;
+
+}
